@@ -1,6 +1,7 @@
 # Responsive Web Design Certification
 
-Comecei o curso de Responsive Web Design Certification de 300 horas da freeCodeCamp e estarei colocando neste repositório alguns dos conhecimentos que eu for agregando durante esse período. Além desse, a plataforma oferece 5 outros cursos:
+
+Completei o curso de Responsive Web Design Certification de 300 horas da freeCodeCamp e estarei colocando neste repositório alguns dos conhecimentos que eu agreguei durante esse período. Além desse, a plataforma oferece 5 outros cursos:
 
 
 - JavaScript Algorithms and Data Structures
@@ -22,4 +23,6 @@ O curso está dividido nos seguintes tópicos:
 - CSS Flexbox | 17 exercícios
 - CSS Grid | 22 exercícios
 - Responsive Web Design Projects | 5 projetos
+
+Minha certificação pode ser conferida em: https://www.freecodecamp.org/certification/fcccc284ed5-040e-41f7-9ce0-e638940cce7e/responsive-web-design
 
